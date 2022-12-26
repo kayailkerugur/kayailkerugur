@@ -1,5 +1,5 @@
 # 💫 About Me:
-Herkese merhabalar! Ben İlker, 18 yaşındayım ve Bilgisayar mühendisliği okuyorum.<br>Bir şirkette iOS Developer olarak çalışıyorum.<br>Bildiğim diller Swift, Python, SQL ve çok az da olsa Java. <br>Bana kayailkercontact@gmail.com mailinden sorularınızı ve Instagram kullanıcı adım: _kayailker'den ulaşabilirsiniz.<br>
+Herkese merhabalar! Ben İlker, 18 yaşındayım ve Bilgisayar mühendisliği okuyorum.<br>Detaysoft'ta iOS Developer olarak çalışıyorum.<br>Bildiğim diller Swift, Python, SQL ve çok az da olsa Java. <br>Bana kayailkercontact@gmail.com mailinden sorularınızı ve Instagram kullanıcı adım: _kayailker'den ulaşabilirsiniz.<br>
 
 
 ## 🌐 Socials:
