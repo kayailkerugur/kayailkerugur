@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kayailkerugur&" alt="kayailkerugur" /></p>
 
-https://camo.githubusercontent.com/41478ccaecf5625180e30aec1c844ed8296188d2630ad6ede1484771dc124ca6/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f6d7568617272656d6b6f632f636f756e742e737667
+![Visitor Count](https://profile-counter.glitch.me/muharremkoc/count.svg)
