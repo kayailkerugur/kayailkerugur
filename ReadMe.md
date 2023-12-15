@@ -30,4 +30,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kayailkerugur&" alt="kayailkerugur" /></p>
 
+## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/muharremkoc/count.svg)
