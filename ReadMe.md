@@ -6,7 +6,7 @@ I love building apps, exploring new technologies, and making ideas come to life.
 - 🔭 I’m currently working on **Notiva** and **RestLocation**.
 - 🌱 I’m learning **Spring Boot** and **Cybersecurity**.
 - 💬 Ask me about **Swift**, **SwiftUI**, **Java**, **PostgreSQL**, and **App Security**.
-- 📫 How to reach me: [LinkedIn]([https://your-linkedin-url](https://www.linkedin.com/in/ilker-u%C4%9Fur-kaya-a0b715251/)) | [GitHub](https://github.com/kayailkerugur)
+- 📫 How to reach me: [LinkedIn]([https://your-linkedin-url](https://www.linkedin.com/in/ilker-u%C4%9Fur-kaya-a0b715251/]) | [GitHub](https://github.com/kayailkerugur)
 
 ---
 
