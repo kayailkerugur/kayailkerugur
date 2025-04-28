@@ -19,4 +19,4 @@ I love building apps, exploring new technologies, and making ideas come to life.
 
 ---
 
-⭐️ From [your-username](https://github.com/kayailkerugur)
+⭐️ From [kayailkerugur](https://github.com/kayailkerugur)
